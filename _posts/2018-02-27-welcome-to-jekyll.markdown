@@ -1,8 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2018-02-27 14:35:33 +0800
-categories: jekyll update
+date:   2018-02-27
+title:      ReactiveCocoa 进阶
+subtitle:   函数式编程框架 ReactiveCocoa 进阶
+author:     daSheng
+header-img: img/post-bg-ios9-web.jpg
+catalog: true
+tags:
+    - 测试标签
+    - ReactiveCocoa
+    - 函数式编程
+    - 开源框架
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
