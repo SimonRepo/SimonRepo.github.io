@@ -49,15 +49,6 @@ layout: default
                 </section>
                 {% endif %}
 
-                {% for category in site.categories %}
-                <h2>{{ category | first }}</h2>
-                </span>{{ category | last | size }}</span>
-                <ul class="arc-list">
-                    {% for post in category.last %}
-                    <li>{{ post.date | date:"%d/%m/%Y"}}<a href="{{ post.url }}">{{ post.title }}</a></li>
-                    {% endfor %}
-                </ul>
-                {% endfor %}
 
                 <!-- Friends Blog -->
                 {% if site.friends %}
@@ -107,6 +98,20 @@ layout: default
                     </div>
                 </section>
                 {% endif %}
+
+                <!--分类-->
+                <section>
+                {% for category in site.categories %}
+                <h2>{{ category | first }}</h2>
+                </span>{{ category | last | size }}</span>
+                <ul class="arc-list">
+                    {% for post in category.last %}
+                    <li>{{ post.date | date:"%d/%m/%Y"}}<a href="{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
+                </ul>
+                {% endfor %}
+                </section>
+
 
                 <!-- Short About -->
                 <section class="visible-md visible-lg">
