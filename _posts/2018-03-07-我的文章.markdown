@@ -5,7 +5,9 @@ title:      测试文章大标题
 subtitle:   测试文章小标题
 author:     daSheng
 header-img: img/post-bg-ios9-web.jpg
-catalog: true
+catalog: true #导航目录,不要管他
+original: true #是否原创申明
+category: 音乐
 tags:
     - 测试标签
     - 函数式编程
