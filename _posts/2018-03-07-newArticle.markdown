@@ -1,14 +1,15 @@
 ---
 layout: post
 date:   2018-03-09
-title:      gittalk 测试
-subtitle:   gittalk 测试
+title:      newarticle 测试
+subtitle:   newarticle 测试
 author:     daSheng
 header-img: img/post-bg-ios9-web.jpg
 catalog: true #导航目录,不要管他
 original: true #是否原创申明
 tags:
     - gittalk
+    - 电子书
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
