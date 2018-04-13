@@ -20,10 +20,10 @@ header-img: img/home_bg.jpg
 description: "Stay young."
 keyword: "Simon, android, javaweb, python, 小程序"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://simon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://simonrepo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  SimonRepo
-github_repo: "https://github.com/SimonRepo/simon.github.io.git" # you code repository
+github_repo: "https://github.com/SimonRepo/SimonRepo.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -68,7 +68,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: e15f3baddf8a2938d4fb   #生成的clientID
   clientSecret: 1102a0a8971d20ae73f71d777984ffedef3deb41  #同上
-  repo: simon.github.io    #仓库名称
+  repo: SimonRepo.github.io    #仓库名称
   owner: SimonRepo    #github用户名
   admin: SimonRepo
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
