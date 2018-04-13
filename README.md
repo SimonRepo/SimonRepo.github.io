@@ -1,4 +1,4 @@
-## [daSheng's Tech Blog](https://daShengSay.github.io)
+## [Simon's Tech Blog](https://simon.github.io)
 
 ### 致谢
 修改自[Hux](http://huangxuan.me). powered by [Jekyll](https://github.com/mojombo/jekyll) and [Jekyll-bootstrap](http://jekyllbootstrap.com).

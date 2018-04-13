@@ -1,14 +1,14 @@
 {
-    "name": "daSheng Blog",
-    "title": "daSheng Blog",
-    "author": "daSheng <siushen.lin@gmail.com>",
+    "name": "Simon Blog",
+    "title": "Simon Blog",
+    "author": "Simon <siushen.lin@gmail.com>",
     "version": "1.0.0",
-    "homepage": "https://dashengsay.github.io",
+    "homepage": "https://simon.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/daShengSay/daShengSay.github.io"
+        "url": "https://github.com/SimonRepo/simon.github.io"
     },
-    "bugs": "https://github.com/daShengSay/daShengSay.github.io/issues",
+    "bugs": "https://github.com/SimonRepo/simon.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",

@@ -13,17 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: daSheng Blog
-SEOTitle: 大圣说
+title: Simon Blog
+SEOTitle: Simon·Blog
 email: siushen.lin@gmail.com
 header-img: img/home_bg.jpg
 description: "Stay young."
-keyword: "dasheng, dashengsay, 大圣, 大圣说, android, javaweb, python, 小程序"
+keyword: "Simon, android, javaweb, python, 小程序"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dashengsay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://simon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username:  daShengSay
-github_repo: "https://github.com/daShengSay/daShengSay.github.io.git" # you code repository
+github_username:  SimonRepo
+github_repo: "https://github.com/SimonRepo/simon.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -32,12 +32,12 @@ sidebar-avatar: /img/my_head.jpg      # use absolute URL, seeing it's used in bo
 
 # SNS settings
 RSS: false
-github_username:    daShengSay
-# weibo_username:     daShengSay
-# zhihu_username:     daShengSay
-#facebook_username:  daShengSay
-#jianshu_username:   daShengSay
-#twitter_username:   daShengSay
+github_username:    SimonRepo
+# weibo_username:     SimonRepo
+# zhihu_username:     SimonRepo
+#facebook_username:  SimonRepo
+#jianshu_username:   SimonRepo
+#twitter_username:   SimonRepo
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -68,9 +68,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: e15f3baddf8a2938d4fb   #生成的clientID
   clientSecret: 1102a0a8971d20ae73f71d777984ffedef3deb41  #同上
-  repo: daShengSay.github.io    #仓库名称
-  owner: daShengSay    #github用户名
-  admin: daShengSay
+  repo: simon.github.io    #仓库名称
+  owner: SimonRepo    #github用户名
+  admin: SimonRepo
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
